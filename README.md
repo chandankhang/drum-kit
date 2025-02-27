@@ -30,15 +30,15 @@ This is a simple **Drum Kit** project built using **HTML**, **CSS**, and **JavaS
 
 ## 👀 Demo
 Here’s a live demo of the Drum Kit project:  
-[Drum Kit Live Demo](https://your-username.github.io/drum-kit/)
+[Drum Kit Live Demo](https://chandankhang.github.io/drum-kit/)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out to me at:  
-- Email: your-email@example.com
-- GitHub: [@your-username](https://github.com/your-username)
+- Email: chandankumar965359@gmail.com
+- GitHub: [@chandankhang](https://github.com/chandankhang)
 
 ---
 
